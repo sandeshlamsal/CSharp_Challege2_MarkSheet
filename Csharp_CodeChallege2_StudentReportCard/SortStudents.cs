@@ -10,6 +10,7 @@ namespace Csharp_CodeChallege2_StudentReportCard
     {
         public void SortStudentByTotalMarks(string[] studentNames, int[] totalMarks)
         {
+            //Sorting method for students according  to the 
             int n = totalMarks.Length;
 
             int totalMarksTemp = 0;
